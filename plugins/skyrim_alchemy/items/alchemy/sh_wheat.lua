@@ -1,4 +1,4 @@
-ITEM.base = "base_alchemy"
+ITEM.base = "base_alchemy_ingredient"
 ITEM.name = "Wheat"
 ITEM.description = "Dried grain that stabilizes medicinal mixtures."
 ITEM.model = Model("models/props_junk/garbage_bag001a.mdl")

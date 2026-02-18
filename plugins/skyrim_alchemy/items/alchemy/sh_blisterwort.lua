@@ -1,4 +1,4 @@
-ITEM.base = "base_alchemy"
+ITEM.base = "base_alchemy_ingredient"
 ITEM.name = "Blisterwort"
 ITEM.description = "A hot cave mushroom with a bitter smell."
 ITEM.model = Model("models/props_junk/garbage_milkcarton002a.mdl")

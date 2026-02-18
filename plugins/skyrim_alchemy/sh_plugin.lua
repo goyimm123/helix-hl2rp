@@ -64,8 +64,8 @@ end
 local COMMAND = {}
 COMMAND.description = "Brew a potion from two ingredients in your inventory."
 COMMAND.arguments = {
-	ix.type.string,
-	ix.type.string
+	ix.type.text,
+	ix.type.text
 }
 COMMAND.syntax = "<ingredient uniqueID> <ingredient uniqueID>"
 

@@ -1,4 +1,3 @@
-ITEM.base = "base_item"
 ITEM.name = "Alchemy Potion"
 ITEM.description = "An experimental brew created from mixed ingredients."
 ITEM.category = "Alchemy"

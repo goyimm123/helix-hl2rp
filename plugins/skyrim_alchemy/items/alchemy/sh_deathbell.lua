@@ -1,4 +1,4 @@
-ITEM.base = "base_alchemy"
+ITEM.base = "base_alchemy_ingredient"
 ITEM.name = "Deathbell"
 ITEM.description = "A toxic flower often used for dangerous poisons."
 ITEM.model = Model("models/props_lab/huladoll.mdl")
